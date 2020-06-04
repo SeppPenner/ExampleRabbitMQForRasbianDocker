@@ -1,5 +1,4 @@
-ExampleRabbitMQForRasbianDocker
-====================================
+# ExampleRabbitMQForRasbianDocker
 
 ExampleRabbitMQForRasbianDocker is an example how to use and configure RabbitMQ on Docker for an ARM architecture like the Raspberry Pi.
 The project was tested on a Raspberry Pi 3 Model B.
@@ -57,4 +56,4 @@ Of course, you can adjust the usernames in this file, too.
 Change history
 --------------
 
-* **Version 1.0.0.0 (2018-09-26)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/ExampleRabbitMQForRasbianDocker/blob/master/Changelog.md).
