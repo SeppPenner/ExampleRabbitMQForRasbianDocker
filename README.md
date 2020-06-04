@@ -8,7 +8,7 @@ The project was tested on a Raspberry Pi 3 Model B.
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/ExampleRabbitMQForRasbianDocker.svg)](https://github.com/SeppPenner/ExampleRabbitMQForRasbianDocker/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/ExampleRabbitMQForRasbianDocker.svg)](https://github.com/SeppPenner/ExampleRabbitMQForRasbianDocker/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/ExampleRabbitMQForRasbianDocker.svg)](https://github.com/SeppPenner/ExampleRabbitMQForRasbianDocker/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/ExampleRabbitMQForRasbianDocker/master/License.txt)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/ExampleRabbitMQForRasbianDocker/master/License.txt)
 
 ## How to use this project:
 
